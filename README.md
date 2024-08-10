@@ -85,3 +85,8 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+
+
+
+POR SI LAS MOSCAS TE DEJO EL LINK DE EL FORK DE LA PARTE A QUE TIENE TAMBIEN EL CSS: https://github.com/nicholastrsu/dsaw-2024-2-cv 
